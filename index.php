@@ -6,5 +6,6 @@
 		<a href='derssecimi.php'>Ders Secimi</a><br>
 		<a href='bilgilerilistele.php'>Bilgileri Listele</a>
 	</td>
+	merhaba ben hüseyin
 </tr>
 </table>
